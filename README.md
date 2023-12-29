@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vivek-v-pai-6b674b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-v-pai-6b674b1b8" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21341439/pai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21341439/pai" height="30" width="40" /></a>
-<a href="https://instagram.com/@i.m_pai_vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@i.m_pai_vivek" height="30" width="40" /></a>
+<a href="https://instagram.com/i.m_pai_vivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.m_pai_vivek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
