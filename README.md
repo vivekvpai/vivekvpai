@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIVEK V PAI</h1>
 <h3 align="center">Software Developer @ MetricDust | MSc - LJMU | Exec PG - IIIT-B | React • Angular • Python | Former Angular Guest Lecturer @ DBIT | Open-Source Contributor | Exploring React Native (Expo)</h3>
 
-[![NPM Downloads](https://img.shields.io/npm/dt/openmate)](https://www.npmjs.com/package/openmate)
-[![NPM Version](https://img.shields.io/npm/v/openmate)](https://www.npmjs.com/package/openmate)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekvpai&label=Profile%20views&color=0e75b6&style=flat" alt="vivekvpai" /> </p>
 
 - 🔭 I’m currently working on [Angular Lab experiments](https://github.com/vivekvpai/Angular_lab_experiments)
