@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OpenMate](https://github.com/vivekvpai/OpenMate)
 
-- 🌱 I’m currently learning **Reactnative (EXPO)**
+- 🌱 I’m currently learning **ReactNative (EXPO)**
 
 - 👨‍💻 All of my projects are available at [https://vivekvpai.github.io/portfolio/](https://vivekvpai.github.io/portfolio/)
 
